@@ -147,7 +147,7 @@ janin.currencies = [
     janin.currency.createCurrency ("GabenCoin",           0x10, 0x90, "5",    "N"    , "7cwtF11nW4qAGp2pFdLuUZ5gzJWiXtUvi1"),
     janin.currency.createCurrency ("GlobalBoost",         0x26, 0xa6, "6",    "R"    , "GeXdH1WhzA7ayYim9sdCCQKcVukUq1W8LJ"),
     janin.currency.createCurrency ("Goodcoin",            0x26, 0xa6, "6",    "R"    , "GM3kAbQGaMVAYk8U3CrVGhSwz1hZaF6gVM"),
-    janin.currency.createCurrency ("Goldcoin",            0x26, 0x9b, "",    "[PQ]" , "GM3kAbQGaMVAYk8U3CrVGhSwz1hZaF6gVM"),
+    janin.currency.createCurrency ("Goldblocks",            0x26, 0x9b, "",    "[PQ]" , "GM3kAbQGaMVAYk8U3CrVGhSwz1hZaF6gVM"),
     janin.currency.createCurrency ("GridcoinResearch",    0x3e, 0xbe, "7",    "V"    , "SHs9ESzUL9VAEcq7kStfF1JUAMaNT1EYzJ"),
     janin.currency.createCurrency ("Gulden",              0x26, 0xa6, "6",    "R"    , "GLD7BDBYyddx6Sr72zGfreRG21dJAe74j8"),
     janin.currency.createCurrency ("Guncoin",             0x27, 0xa7, "6",    "R"    , "GwVej6c3tF9GqEdSKmwJiUDWtQVK2wY9fP"),
